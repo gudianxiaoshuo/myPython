@@ -10,7 +10,7 @@ if not os.path.exists(tmpDir):
 
 
 #下载网站
-domain="http://www.animatedimages.org/"
+domain=""
 
 
 aList=[]
