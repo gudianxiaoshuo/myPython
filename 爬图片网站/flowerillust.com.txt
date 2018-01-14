@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<title>�Ԃ̃C���X�g�Ȃ�w�S��㇗��x�^�����̃t���[�f�ޏW</title>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5">
+<meta name="keywords" content="��,�C���X�g,�f��" />
+<meta name="Description" content="���킢���ԁA�|�b�v�ȉԁA���A���e�C�X�g�̉ԁA�J���t���ȉԁA�����E���m�N���̉ԂȂǁA������^�C�v�̉Ԃ̃C���X�g�E�摜�����J���Ă��܂��B�C���X�g�͉Ԃ̐F�A�G�߁A��ނȂǂŃJ�e�S����������Ă��Ċ�]�̃C���X�g��T�����Ƃ��ł��܂��B���T�C�g���̃f�[�^�͑S�ăT�C�Y���傫�߂̍��𑜓x�C���X�g�ŁA�z�[���y�[�W�̑f�ނ���`���V��|�X�^�[�ȂǗl�X�ȗp�r�ɂ��g�p���������܂��B�����Ŏg����t���[�f�ނł��̂ŁA�l���p�͈̔͂ł����R�ɂ��g�����������B�t�@�C���`���́uJPEG�v�uGIF�v�uPNG�v�Ȃǂł��B" />
+<style type="text/css">
+body{margin:0;padding:0;font-size:0.9em;background-color:#FFC}
+header{margin:0 auto}
+header img{margin:0;padding:0;max-width:100%;height:auto}
+div.pr_header{width:800px;float:left}
+div.topmenu{margin:0;padding:0}
+div.topmenu img{float:left;margin:0;padding:0;border-style:none}
+div.pankuzu{font-weight:bold;margin:10px}
+</style>
+<link rel="stylesheet" href="style.css" type="text/css" media="screen">
+</head>
+<body>
+<div class="main3">
+<a name="top"></a>
+<header>
+<h1>�Ԃ̃C���X�g�Ȃ�u�S��㇗��v - �����Ŏg����t���[�f��</h1>
+<img src="img/top.jpg" alt="�����̃t���[�f�ޏW�`�Ԃ̃C���X�g�E�摜�Ȃ�u�S��㇗��v" />
+<div class="topmenu">
+<a href="flowercolor.html"><img src="img/topmenu01.png" alt="�Ԃ̐F����T��" width="200" height="50" onMouseOver=this.src="img/topmenu01-2.png" onMouseOut=this.src="img/topmenu01.png" /></a>
+<a href="flowername.html"><img src="img/topmenu02.png" alt="�Ԃ̖��O����T��" width="200" height="50" onMouseOver=this.src="img/topmenu02-2.png" onMouseOut=this.src="img/topmenu02.png" /></a>
+<a href="season_month.html"><img src="img/topmenu03.png" alt="�G�߁E������Ԃ�T��" width="200" height="50" onMouseOver=this.src="img/topmenu03-2.png" onMouseOut=this.src="img/topmenu03.png" /></a>
+<a href="#submenu"><img src="img/topmenu04.png" alt="�T�u���j���[�Ɉړ�" width="200" height="50" onMouseOver=this.src="img/topmenu04-2.png" onMouseOut=this.src="img/topmenu04.png" /></a></div><br clear="all">
+<div class="pankuzu">��<a href="index.html">TOP</a>�@���@</div>
+</header>
+<div class="rightbox">
+<div class="rightmenu">
+<span class="pr">�X�|���T�[�����N</span><br />
+<style>
+.adslot_6 { width: 300px; height: 600px; }
+@media (max-width:1120px) { .adslot_6 { width: 160px; height: 600px; } }
+@media (max-width:960px) { .adslot_6 { width: 728px; height: 90px; } }
+@media (max-width:740px) { .adslot_6 { width: 320px; height: 100px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- adslot_6 -->
+<ins class="adsbygoogle adslot_6"
+     style="display:inline-block;"
+     data-ad-client="ca-pub-4238861241903172"
+     data-ad-slot="5912882842"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+<div class="content">
+<div class="content-main">
+<h2>�S��㇗��@�`�@�T�C�g�ē�</h2>
+<p><img src="img/flowers001.gif" alt="�摜�F�o���G�e�B�L���ȉԂ̃C���X�g" width="250" height="250" align="left" />���킢���ԁA�|�b�v�ȉԁA���A���e�C�X�g�̉ԁA�J���t���ȉԁA�����E���m�N���̉ԂȂǁA������^�C�v�̉Ԃ̃C���X�g�E�摜�����J���Ă��܂��B</p>
+<p>�C���X�g�͉Ԃ̐F�A�G�߁A��ނȂǂ̗l�X�ȃJ�e�S���ŕ������Ă��āA��]�̃C���X�g��T�����Ƃ��ł��܂��B</p>
+<p> �T�C�g���̃f�[�^�͑S�ăT�C�Y���傫�߂̍��𑜓x�C���X�g�ŁA�z�[���y�[�W�̑f�ނ���`���V��|�X�^�[����ȂǁA�l�X�ȗp�r�ɂ��g�p���������܂��B<br />
+�����Ŏg����t���[�f�ނł��̂ŁA�l���p�͈̔͂ł����R�ɂ��g�����������B�t�@�C���`���́uJPEG�v�uGIF�v�uPNG�v�Ȃǂł��B</p>
+<h3>�S��㇗��@�J�e�S���Љ�</h3>
+<div class="subcontents0">
+<div class="subcontents0-title">�t���[���E���E�O�g�E�͂��g�E�^�C�g��</div>
+<div class="subcontents0-img"><img src="img/menu01.jpg" alt="�摜�F�t���[���g�E�^�C�g���̃C���X�g�f��" width="250" height="80" /></div>
+�ԁX�̃t���[���A�ʐ^���A�^�C�g���g�ȂǂƂ��Ďg����C���X�g�f�ނł��B
+���킢���ԁA�������Ԃł��ꂢ�ɍʂ�܂��傤�B</div>
+<div class="subcontents0">
+<div class="subcontents0-title">�Ԃ̃��C���E�R�[�i�[</div>
+<div class="subcontents0-img"><img src="img/menu07.jpg" alt="�摜�F�t���[���g�E�^�C�g���̃C���X�g�f��" width="250" height="80" /></div>
+�A������ԁE�s�E�t�ɂ��{�[�_�[���C����R�[�i�[�̃C���X�g�ł��B�c���A�����AL���^�̑f�ނ��W�߂܂����B</div>
+<div class="subcontents0">
+<div class="subcontents0-title">�w�i�E�ǎ��E�o�i�[</div>
+<div class="subcontents0-img"><img src="img/menu02.jpg" alt="�摜�F�w�i��ǎ��̃C���X�g�f��" width="250" height="80" /></div>
+�ǎ���w�i�摜�Ƃ��Ďg����Ԃ̃C���X�g�W�ł��B�A������ԕ��͗l��A�Ԃ̑����A���i��ȂǐF�X�ȃf�U�C��������܂��B</div>
+<div class="subcontents0">
+<div class="subcontents0-title">�ԑ��E��������̉�</div>
+<div class="subcontents0-img"><img src="img/menu03.jpg" alt="�摜�F�ԑ��E�����ς��̉Ԃ̃C���X�g�f��" width="250" height="80" /></div>
+���{����t�B�����ő������ꂽ�ԑ��̃C���X�g��A��������̉Ԃ��W�܂����Ԃ̉�̃C���X�g�Ȃǂ��������������܂��B</div>
+<div class="subcontents0">
+<div class="subcontents0-title">�|�b�v�ȉԁE���킢����</div>
+<div class="subcontents0-img"><img src="img/menu04.jpg" alt="�摜�F���킢��POP�ȉԂ̃C���X�g�f��" width="250" height="80" /></div>
+�ׂ����ŕ`���ꂽ�菑�����̂��킢���C���X�g��A�|�b�v�ȃf�U�C���̃t�����[�C���X�g�W�ł��B</div>
+<div class="subcontents0">
+<div class="subcontents0-title">���A���^�b�`�ȃC���X�g</div>
+<div class="subcontents0-img"><img src="img/menu05.jpg" alt="�摜�F�ʐ^���E���A���e�C�X�g�ȉԂ̃C���X�g�f��" width="250" height="80" /></div>
+�Ԃ̍ו��܂��k���ɕ`���ꂽ���A���e�C�X�g�̃t�����[�C���X�g�ł��B�菑�����̂��̂���ʐ^�ƌ��ԈႤ�悤�Ȃ��̂܂ŁB</div>
+<div class="subcontents0">
+<div class="subcontents0-title">�����E���m�N���E�Ԃ̃V���G�b�g</div>
+<div class="subcontents0-img"><img src="img/menu06.jpg" alt="�摜�F�����E���m�g�[���̉ԃC���X�g�f��" width="250" height="80" /></div>
+�����̃c�[�g���J���[�̉Ԃ̃C���X�g�W�ł��B�������������͋C���o������A�F�t�����邽�߂̑f�ނƂ��čœK�ł��B</div>
+<div class="subcontents0">
+<div class="subcontents0-title">�Ԃ�t�̎ʐ^�f��</div>
+<div class="subcontents0-img"><img src="img/menu08.jpg" alt="�摜�F�Ԃ̎ʐ^�f�ރT���v��" width="250" height="80" /></div>
+�Ԃ�t���ς́u�C���X�g�v�ł͂Ȃ��u�ʐ^�v�̑f�ޏW�ł��B�ʐ^�ƃC���X�g�ECG��g�ݍ��킹���f�ނ�����܂��B</div>
+<div class="subcontents0">
+<div class="subcontents0-title">�t���ρE���؂̃C���X�g�E�ʐ^</div>
+<div class="subcontents0-img"><img src="img/menu09.jpg" alt="�摜�F�t�E���[�t�̃C���X�g�f��" width="250" height="80" /></div>
+�t�E�s�E���؂Ȃǂ̎l�G�܁X�̃C���X�g�f�ނł��B�V���v���Ȃ��̂��烊�A���^�b�`�Ȃ��̂܂ŗl�X�ł��B�ʐ^�f�ނ�����܂��B</div><br clear="all">
+<div class="pr-l"><span class="pr">�X�|���T�[�����N</span><br />
+<style>
+.adslot_1 { width: 336px; height: 280px; }
+@media (max-width:360px) { .adslot_1 { width: 300px; height: 250px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- adslot_1 -->
+<ins class="adsbygoogle adslot_1"
+    style="display:inline-block;"
+    data-ad-client="ca-pub-4238861241903172"
+    data-ad-slot="3149783247"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+</div></div></div>
+<div class="menu"><a name="submenu"></a><div class="menu-title">��ޕʃC���X�g</div>
+<ul><li><a href="frame.html">�t���[���E����g�E�^�C�g����</a></li><li><a href="line.html">���C���f�ށi�c����)�E�R�[�i�[�p�f�ށiL���^�j</a></li><li><a href="background.html">�w�i�E�ǎ��E�o�i�[</a></li><li><a href="hanataba.html">�ԑ��E��������̉�</a></li><li><a href="pop.html">�|�b�v�ȉԁE���킢����</a></li><li><a href="painting.html">�菑�����E�G�敗�̉�<br />�i���M��A���ʉ�A���G�A���n��Ȃǁj</a></li><li><a href="monochrome.html">�����E���m�N���E�V���G�b�g</a></li><li><a href="flowername_rose.html">�o���i�K�N�j�̉�</a></li></ul>
+<div class="menu-title">���̑��̑f��</div>
+<ul><li><a href="photo.html">�ʐ^�f��</a></li><li><a href="leaf_tree.html">�t�E���E�؂̃C���X�g</a></li><li><a href="link.html">�����N</a></li></ul>
+<br /><span class="b">���T�C�g������</span>
+<form action="https://www.google.co.jp/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-4238861241903172:1985538445" />
+    <input type="hidden" value="Shift_JIS" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="����" />
+  </div>
+</form>
+
+<script async src="http://www.google.co.jp/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script><br />
+<p class="center">�X�|���T�[�����N<br />
+<style>
+.adslot_5 { width: 300px; height: 600px; }
+@media (max-width:1164px) { .adslot_5 { width: 160px; height: 600px; } }
+@media (max-width:960px) { .adslot_5 { width: 300px; height: 250px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- adslot_5 -->
+<ins class="adsbygoogle adslot_5"
+    style="display:inline-block;"
+    data-ad-client="ca-pub-4238861241903172"
+    data-ad-slot="1527029243"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</p></div><br clear="all">
+<div id="footer">Copyright (C) �Ԃ̃C���X�g�Ȃ�w�S��㇗��x�^�����̃t���[�f�ޏW All Rights Reserved.</div></div>
+<a href="#top" id="scroll-to-top">�g�b�v�ɖ߂�</a>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4238861241903172",
+    enable_page_level_ads: true
+  });
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51912515-5', 'flowerillust.com');
+  ga('send', 'pageview');
+
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/layzr.js/1.4.3/layzr.min.js"></script>
+<script>var layzr = new Layzr();</script>
+</body>
+</html>
